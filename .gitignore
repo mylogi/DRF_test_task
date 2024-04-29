@@ -1,0 +1,43 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caches
+*.sqlite3
+*.pyc
+
+# Log files
+*.log
+
+# Environment variables
+.env
+
+# Static files
+/staticfiles/
+
+# Media files
+/media/
+
+# Database
+db.sqlite3
+
+# Dependency directories
+venv/
+env/
+
+# IDE files
+.vscode/
+.idea/
+
+# macOS system files
+.DS_Store
+
+# Compiled files
+*.mo
+
+# Local Django management
+local_settings.py
+
+# Ignore migrations (You don't want to commit migrations)
+*/migrations/*
