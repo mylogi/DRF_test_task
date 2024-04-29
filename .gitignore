@@ -23,7 +23,7 @@ __pycache__/
 db.sqlite3
 
 # Dependency directories
-venv/
+.venv/
 env/
 
 # IDE files
